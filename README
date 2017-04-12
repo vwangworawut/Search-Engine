@@ -1,0 +1,1 @@
+Using Java, built the front and back end of a search engine that recursively searched through websites, scraped URLs, and stored word locations in an advanced data structure called an Inverted Index. The Inverted Index uses TFIDF as the ranking algorithm to rank in a search results page. For search history, user accounts and cookies were stored using MySQL databases.
